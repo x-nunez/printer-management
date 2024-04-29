@@ -24,5 +24,6 @@ exe: $(OUTPUT)
 git:
 	git add README.md
 	git add main.c
+	git add printers
 	git add makefile
 	git add libraries
