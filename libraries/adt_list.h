@@ -1,6 +1,7 @@
 #ifndef ADT_LIST_H
 #define ADT_LIST_H
 
+#include <stdlib.h>
 #include "adt_queue.h"
 
 /*Definition of the type of element stored in the list*/
